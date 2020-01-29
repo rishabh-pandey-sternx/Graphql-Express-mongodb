@@ -1,0 +1,12 @@
+{ '4d066fff-b973-4ad0-a244-a73b486f499c':
+   { phrase: 'I\'m a leaf on the wind. Watch how I soar.',
+     quotee: 'Wash',
+     id: '4d066fff-b973-4ad0-a244-a73b486f499c' },
+  'aa5dce0d-8e13-45de-990c-5b45ed04fe10':
+   { phrase: 'We\'re all stories in the end.',
+     quotee: 'The Doctor',
+     id: 'aa5dce0d-8e13-45de-990c-5b45ed04fe10' },
+  '24210760-ade3-40bd-a017-de51870d06f2':
+   { phrase: 'Woah!',
+     quotee: 'Neo',
+     id: '24210760-ade3-40bd-a017-de51870d06f2' } }
