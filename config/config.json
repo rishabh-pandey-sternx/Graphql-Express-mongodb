@@ -1,0 +1,4 @@
+{
+    "DB": "mongodb://localhost:27017/Graphql",
+    "PORT": 3000
+}
